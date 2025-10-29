@@ -8,6 +8,7 @@ export interface CardProps {
   backgroundColor?: string;
 }
 
+// Card component
 const Card = ({ title, content, backgroundColor }: CardProps) => {
   return (
     <div className={styles.card} style={{ backgroundColor }}>

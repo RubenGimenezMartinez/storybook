@@ -6,7 +6,7 @@ export interface ProgressProps {
   color?: string;
   striped?: boolean;
 }
-
+// Progress component
 const Progress = ({
   value,
   max = 100,
