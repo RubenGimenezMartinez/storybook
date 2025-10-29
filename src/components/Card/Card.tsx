@@ -1,4 +1,4 @@
-import styles from "./Card.module.css";
+import styles from "./card.module.css";
 
 export interface CardProps {
   /** Card title */

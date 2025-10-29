@@ -1,4 +1,4 @@
-import styles from "./Progress.module.css";
+import styles from "./progress.module.css";
 
 export interface ProgressProps {
   value: number;
